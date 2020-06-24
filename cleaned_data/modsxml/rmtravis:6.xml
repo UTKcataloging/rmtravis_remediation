@@ -33,12 +33,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85140286">
-      <topic>Spanish-American War, 1898</topic>
-   </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh91001065">
-      <topic>Spanish-American War, 1898--Campaigns--Philippines</topic>
+      valueURI="http://id.loc.gov/authorities/subjects/sh85100792">
+      <topic>Philippines--History--Philippine American War, 1899-1902</topic>
    </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n2006028605">
